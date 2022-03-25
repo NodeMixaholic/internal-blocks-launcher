@@ -1,5 +1,5 @@
 @echo off
-title Toontown CLI Launcher ***SECRET INJECTOR MODE***
+title Toontown CLI Launcher ***HELLO WORLD MODE***
 cd /d %1
 echo Installing required extra dependencies...
 "dependencies/panda/python/ppython.exe"  -m pip install tk tkthread
@@ -7,7 +7,7 @@ echo = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 echo What do you want to do!
 echo = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 echo.
-echo #1 - Run Toontown injector mode
+echo #1 - Run Toontown Hello World mode
 echo. 
 :selection
 
