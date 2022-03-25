@@ -1,2 +1,2 @@
 # internal-blocks-launcher
-Old launcher for an older Hello World (made for Poodletooth iLand, just prints the usual and starts game.)
+Old launcher for an older Hello World (made for Poodletooth iLand, shows an average Hello World GUI while launching)
