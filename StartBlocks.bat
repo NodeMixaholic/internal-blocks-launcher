@@ -1,6 +1,5 @@
 @echo off
 title Toontown CLI Launcher ***HELLO WORLD MODE***
-cd /d %1
 echo Installing required extra dependencies...
 "dependencies/panda/python/ppython.exe"  -m pip install tk tkthread
 echo = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
